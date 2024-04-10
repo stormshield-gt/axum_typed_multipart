@@ -35,6 +35,3 @@ axum-test-helper = "0.3.0"
 reqwest = "0.11.18"
 serde = { version = "1.0.183", features = ["derive"] }
 
-
-[build-dependencies]
-openssl = "0.10.35"
